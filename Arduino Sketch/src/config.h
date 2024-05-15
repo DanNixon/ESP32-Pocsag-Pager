@@ -30,9 +30,9 @@ struct ric{
 {RIC,"NAME",ringtone(see below),TBD,TBD}
 */
 ric[RICNUMBER]={
-        {65009, "IND",2,0,0},
-        {1040, "EMERGENCY",0,0,0},
-        {1080, "APRSWX",1,0,0},
+        {216, "TIME",0,0,0},
+        {349440, "DAN",0,0,0},
+        {1067, "EMFCAMP",0,0,0},
 };
 
 //"melodies", 130ms tones. Individual frequencies, 8 slots. 0 equals to a 130ms silence.
